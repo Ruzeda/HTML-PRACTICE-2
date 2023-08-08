@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <meta charset="UTF-8">
+        <meta charset="viewport" content="width=device-width", initial-scale=1.0
+        <title>Goose Bistro</title><link href="./index.css"
+
+        * {
+            box-sizing: boarder-box;
+            /* i want width and height to include content, padding, and border * /
+        }
+
+        #app-container{
+            background-color: bisque;
+            width: 100vw;
+            height: 100vh;
+        }
+
+
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goose Bistro</title>
+    <link href="./index.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="app-container">
+        <img src="./images/goose_img.jpg" alt="proud goose" />
+        <div id="app-container">
+            <!-- image -->
+            <!-- big title -->
+            <!-- line -->
+            <!-- small orange title -->
+            <!-- text -->
+            <!-- small orange title -->
+            <!-- text -->
+            <!-- small orange title -->
+            <!-- text -->
+        
+            <!-- signup form -->
+        </div>
+        <div>hello</div>
+    </div>
+</body>
+</html>
+* {
+    box-sizing: border-box;
+    /* I want width and height to include content, padding, and border */
+}
+body {
+    margin: 0px
+}
+#app-container{
+    background-color: bisque;
+    width: 100vw;
+    height: 100vh;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goose Bistro</title>
+    <link href="./index.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="app-container">
+        <img src="./images/goose_img.jpg" alt="proud goose" 
+        id="goose-logo"
+        />
+
+
+        <!-- big title -->
+        <h1>My Goose Bistro Restaurant</h1>
+        <!-- line -->
+        <!-- small orange title -->
+        <!-- text -->
+        <!-- small orange title -->
+        <!-- text -->
+        <!-- small orange title -->
+        <!-- text -->
+
+        <!-- signup form -->
+    </div>
+</body>
+</html>
+
+<form>
+    <input type="email" placeholder="Your email..."/>
+    <input type="password" placeholder="Your Password..."/>
+    <input type="password" placeholder="Confrim Password..."/>
+    <button>Submit!</button>
+</form>
